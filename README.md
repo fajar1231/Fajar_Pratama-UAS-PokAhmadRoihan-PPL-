@@ -1,16 +1,6 @@
 ## Deskripsi Aplikasi 
 Sistem Penjualan dan Pengelolaan Stok Berbasis Web untuk Toko Bangunan
 
-## Setting Koneksi PHP
-Setting koneksi di config.php dan ganti username, password dan dbname nya sesuai kebutuhan anda
-
-## Penggunaan Login
-Username : admin
-<br/>
-Password : 1
-<br>
-<span style="color:red">Hanya untuk single user</span>
-
 ## Tampilan
 - Login
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/login.png">
