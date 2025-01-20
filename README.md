@@ -33,6 +33,7 @@ Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi s
 2. Bagaimana sistem ini dapat membantu memantau stok barang secara real-time?
 3. Bagaimana cara mengintegrasikan pembuatan laporan otomatis ke dalam sistem?
 4. Bagaimana memastikan keamanan dan akurasi data dalam sistem penjualan berbasis website?
+
 1.4 Skema Hardware
 - Laptop anggota kelompok
 
