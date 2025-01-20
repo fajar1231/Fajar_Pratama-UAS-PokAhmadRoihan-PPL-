@@ -105,7 +105,7 @@ Penjelasan Diagram
  
 
 Deskripsi Sequence Diagram:
-
+##
 Aktor:
 Admin 
 
@@ -124,7 +124,7 @@ Entitas website Sistem Penjualan:
 
 
 Skema Interaksi:
-
+##
 Admin Login:
 
 -Admin memasukkan username dan password.
@@ -155,7 +155,7 @@ Melihat Laporan:
 -Admin meminta laporan penjualan.
 
 -Sistem mengambil data dari database dan menampilkan laporan.
-
+##
 - Activity Diagram
  
 
