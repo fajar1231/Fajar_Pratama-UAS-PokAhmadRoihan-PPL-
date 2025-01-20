@@ -16,7 +16,7 @@ Password : 1
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/login.png">
 
 - Dashboard 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/2.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/dashboard.png">
 
 - Tabel Barang
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/3.png">
