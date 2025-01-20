@@ -69,16 +69,17 @@ Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat u
 
 ## b.	Relasi Penting:
 
--Barang ke Kategori: Setiap barang memiliki kategori (id_kategori).
+1. Barang ke Kategori: Setiap barang memiliki kategori (id_kategori).
 
--Penjualan dan Nota ke Barang: Transaksi terkait barang yang dijual.
+2. Penjualan dan Nota ke Barang: Transaksi terkait barang yang dijual.
 
--Penjualan dan Nota ke Member: Transaksi juga mencatat pelanggan yang melakukan pembelian.
+3. Penjualan dan Nota ke Member: Transaksi juga mencatat pelanggan yang melakukan pembelian.
 
--Login ke Member: Setiap login hanya berlaku untuk member tertentu.
+4. Login ke Member: Setiap login hanya berlaku untuk member tertentu.
 
 ## 1.7 Skema Actor
-- Use Case diagram
+
+## - Use Case diagram
  
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/actor.jpg" width="600" height="500">
 
@@ -103,11 +104,11 @@ Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat u
 
 ## Deskripsi Sequence Diagram:
 
-## Aktor:
+Aktor:
 
 -Admin 
 
-## Entitas website Sistem Penjualan:
+Entitas website Sistem Penjualan:
 
 -Database
 
@@ -121,33 +122,33 @@ Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat u
 
 ## Skema Interaksi:
 
-## Admin Login:
+Admin Login:
 
--Admin memasukkan username dan password.
+1. Admin memasukkan username dan password.
 
--Sistem memverifikasi kredensial di database.
+2. Sistem memverifikasi kredensial di database.
 
--Sistem memberikan akses jika berhasil.
+3. Sistem memberikan akses jika berhasil.
 
-## Mengelola Barang:
+Mengelola Barang:
 
--Admin menambah/mengedit/menghapus data barang.
+1. Admin menambah/mengedit/menghapus data barang.
 
--Sistem menyimpan perubahan di database.
+2. Sistem menyimpan perubahan di database.
 
-## Melakukan Penjualan:
+Melakukan Penjualan:
 
--Admin memilih barang untuk dijual.
+1. Admin memilih barang untuk dijual.
 
--Admin memasukkan jumlah barang yang dijual.
+2. Admin memasukkan jumlah barang yang dijual.
 
--Sistem menghitung total harga dan menyimpan data transaksi.
+3. Sistem menghitung total harga dan menyimpan data transaksi.
 
-## Melihat Laporan:
+Melihat Laporan:
 
--Admin meminta laporan penjualan.
+1. Admin meminta laporan penjualan.
 
--Sistem mengambil data dari database dan menampilkan laporan.
+2. Sistem mengambil data dari database dan menampilkan laporan.
 
 ## - Activity Diagram
  
