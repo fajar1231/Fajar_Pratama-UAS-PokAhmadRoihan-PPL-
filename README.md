@@ -11,9 +11,9 @@ Password : 1
 <br>
 <span style="color:red">Hanya untuk single user</span>
 
-## Contoh Program V2
+## Tampilan
 - Login
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/1.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/login.png">
 
 - Dashboard 
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/2.png">
