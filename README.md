@@ -19,19 +19,19 @@ Password : 1
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/dashboard.png">
 
 - Tabel Barang
-<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/databarang.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/databarang.png">
 
 - Kategori
-<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/kategori.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/kategori.png">
 
 - Keranjang / Transaksi
-<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/keranjang.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/keranjang.png">
 
 - Laporan 
-<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/laporan.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/laporan.png">
 
 - Nama Toko 
-<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/pengaturan.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/pengaturan.png">
 
 - Atur User 
-<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/edituser.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/edituser.png">
