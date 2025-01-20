@@ -4,7 +4,9 @@ Sistem Penjualan dan Pengelolaan Stok Berbasis Web untuk Toko Bangunan
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/logo.jpg">
 
 AHMAD KHAERUN MAKNUN (2211310004)
+
 FAJAR PRATAMA (2211310026)
+
 MARLINDA (2211310086)
 
 TEKNOLOGI INFORMASI
