@@ -83,7 +83,7 @@ Penjelasan Diagram
 - Sequence Diagram
 
 
-<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/sequence.jpg" width="600" height="500">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/sequence.jpg" width="800" height="800">
 
  
 
