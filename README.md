@@ -64,9 +64,11 @@ b.	Relasi Penting:
 
 -Login ke Member: Setiap login hanya berlaku untuk member tertentu.
 
+
 1.7 Skema Actor
 - Use Case diagram
  
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/actor.jpg" width="250" height="300">
 
 
 Penjelasan Diagram
