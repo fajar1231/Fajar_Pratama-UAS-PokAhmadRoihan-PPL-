@@ -47,6 +47,7 @@ Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi s
 1.4 Skema Hardware
 - Laptop anggota kelompok
 
+
 1.5 Skema Software
 - MySQL
   
