@@ -1,7 +1,7 @@
 ## Deskripsi  
 Sistem Penjualan dan Pengelolaan Stok Berbasis Web untuk Toko Bangunan
 
-<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/logo.jpg">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/logo.jpg" width="250" height="250">
 
 AHMAD KHAERUN MAKNUN (2211310004)
 
