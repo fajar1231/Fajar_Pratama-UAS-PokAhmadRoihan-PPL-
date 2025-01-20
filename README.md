@@ -106,19 +106,19 @@ Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat u
 
 Aktor:
 
--Admin 
+- Admin 
 
 Entitas website Sistem Penjualan:
 
--Database
+- Database
 
--Modul Login
+- Modul Login
 
--Modul Barang
+- Modul Barang
 
--Modul Penjualan
+- Modul Penjualan
 
--Modul Laporan
+- Modul Laporan
 
 ## Skema Interaksi:
 
