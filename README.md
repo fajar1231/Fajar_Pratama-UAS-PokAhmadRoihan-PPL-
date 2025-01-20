@@ -19,19 +19,19 @@ Password : 1
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/dashboard.png">
 
 - Tabel Barang
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/3.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/databarang.png">
 
 - Kategori
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/4.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/kategori.png">
 
 - Keranjang / Transaksi
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/5.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/keranjang.png">
 
 - Laporan 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/6.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/laporan.png">
 
 - Nama Toko 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/7.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/pengaturan.png">
 
 - Atur User 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/8.png">
+<img src="https://raw.githubusercontent.com/fajar1231/pos-kasir-php/master/assets/img/user/edituser.png">
