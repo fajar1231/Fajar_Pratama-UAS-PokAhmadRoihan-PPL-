@@ -21,7 +21,7 @@ KELAS PAGI (A)
 Toko bangunan memiliki berbagai macam barang seperti semen, cat, paku, dan material lainnya yang sangat dibutuhkan untuk konstruksi. Dalam operasional sehari-hari, pencatatan penjualan, pengelolaan stok, dan pembuatan laporan masih sering dilakukan secara manual. Proses ini seringkali menyebabkan kesalahan dalam pencatatan, keterlambatan dalam pembaruan stok, dan sulitnya melakukan pelacakan transaksi.
 
 Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi solusi yang dapat membantu toko bangunan dalam mengelola data barang, transaksi, dan laporan secara efisien. Sistem ini diharapkan mampu mempermudah pengelolaan usaha, meningkatkan akurasi data, dan mempercepat proses operasional.
-
+##
 1.2 Identifikasi Masalah
 
 1. Kesalahan pencatatan transaksi secara manual, seperti total pembayaran atau stok barang.
@@ -33,7 +33,7 @@ Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi s
 4. Risiko kehilangan data akibat tidak adanya sistem terpusat.
    
 5. Kurangnya efisiensi dalam pengelolaan data barang dan transaksi.
-
+##
 1.3 Rumusan Masalah 
 
 1. Bagaimana merancang sistem penjualan berbasis website untuk mempermudah pencatatan transaksi di toko bangunan?
@@ -43,7 +43,7 @@ Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi s
 3. Bagaimana cara mengintegrasikan pembuatan laporan otomatis ke dalam sistem?
    
 4. Bagaimana memastikan keamanan dan akurasi data dalam sistem penjualan berbasis website?
-
+##
 1.4 Skema Hardware
 - Laptop anggota kelompok
 ##
@@ -55,8 +55,7 @@ Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi s
 - Visual Studio Code
   
 - Visual paradigm
-
-
+##
 1.6 Skema Database
 
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/skema.jpg" width="650" height="500">
@@ -77,8 +76,7 @@ b.	Relasi Penting:
 -Penjualan dan Nota ke Member: Transaksi juga mencatat pelanggan yang melakukan pembelian.
 
 -Login ke Member: Setiap login hanya berlaku untuk member tertentu.
-
-
+##
 1.7 Skema Actor
 - Use Case diagram
  
@@ -98,8 +96,7 @@ Penjelasan Diagram
 5.	Melihat Laporan Penjualan: Admin dapat melihat laporan penjualan secara berkala.
     
 6.	Melihat Riwayat Transaksi: Admin dapat melihat transaksi yang sudah terjadi untuk keperluan pencatatan.
-
-
+##
 - Sequence Diagram
 
 
