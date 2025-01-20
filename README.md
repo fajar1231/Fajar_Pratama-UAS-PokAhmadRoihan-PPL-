@@ -102,11 +102,12 @@ Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat u
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/sequence.jpg" width="800" height="800">
 
 ## Deskripsi Sequence Diagram:
-Aktor:
+
+## Aktor:
 
 -Admin 
 
-Entitas website Sistem Penjualan:
+## Entitas website Sistem Penjualan:
 
 -Database
 
@@ -120,7 +121,7 @@ Entitas website Sistem Penjualan:
 
 ## Skema Interaksi:
 
-Admin Login:
+## Admin Login:
 
 -Admin memasukkan username dan password.
 
@@ -128,13 +129,13 @@ Admin Login:
 
 -Sistem memberikan akses jika berhasil.
 
-Mengelola Barang:
+## Mengelola Barang:
 
 -Admin menambah/mengedit/menghapus data barang.
 
 -Sistem menyimpan perubahan di database.
 
-Melakukan Penjualan:
+## Melakukan Penjualan:
 
 -Admin memilih barang untuk dijual.
 
@@ -142,7 +143,7 @@ Melakukan Penjualan:
 
 -Sistem menghitung total harga dan menyimpan data transaksi.
 
-Melihat Laporan:
+## Melihat Laporan:
 
 -Admin meminta laporan penjualan.
 
