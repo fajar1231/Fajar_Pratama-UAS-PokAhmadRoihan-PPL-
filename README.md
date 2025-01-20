@@ -151,7 +151,6 @@ Melihat Laporan:
 ## - Activity Diagram
  
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/activity.jpg" width="500" height="450">
-##
 
 ## Tampilan
 - Login
