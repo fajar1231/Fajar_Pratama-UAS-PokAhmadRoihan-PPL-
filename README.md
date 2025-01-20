@@ -88,33 +88,45 @@ Penjelasan Diagram
  
 
 Deskripsi Sequence Diagram:
+
 Aktor:
 Admin 
+
 Entitas website Sistem Penjualan:
 -Database
 -Modul Login
 -Modul Barang
 -Modul Penjualan
 -Modul Laporan
+
+
 Skema Interaksi:
+
 Admin Login:
 -Admin memasukkan username dan password.
 -Sistem memverifikasi kredensial di database.
 -Sistem memberikan akses jika berhasil.
+
+
 Mengelola Barang:
 -Admin menambah/mengedit/menghapus data barang.
 -Sistem menyimpan perubahan di database.
+
+
 Melakukan Penjualan:
 -Admin memilih barang untuk dijual.
 -Admin memasukkan jumlah barang yang dijual.
 -Sistem menghitung total harga dan menyimpan data transaksi.
+
+
 Melihat Laporan:
 -Admin meminta laporan penjualan.
 -Sistem mengambil data dari database dan menampilkan laporan.
+
 - Activity Diagram
  
 
-<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/activity.jpg" width="600" height="500">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/activity.jpg" width="500" height="450">
 
 
 ## Tampilan
