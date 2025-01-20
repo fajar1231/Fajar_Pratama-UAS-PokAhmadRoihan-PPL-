@@ -1,8 +1,6 @@
-## Deskripsi Aplikasi 
+## Deskripsi  
 Sistem Penjualan dan Pengelolaan Stok Berbasis Web untuk Toko Bangunan
 
-Sistem Penjualan dan Pengelolaan Stok Berbasis Web untuk Toko Bangunan
- 
 
 AHMAD KHAERUN MAKNUN (2211310004)
 FAJAR PRATAMA (2211310026)
