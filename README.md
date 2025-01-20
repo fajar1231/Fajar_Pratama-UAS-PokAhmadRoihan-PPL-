@@ -44,6 +44,9 @@ Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi s
 - Visual paradigm
 
 1.6 Skema Database
+
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/skema.jpg" width="250" height="300">
+
  
 Hubungan Antar Tabel
 
