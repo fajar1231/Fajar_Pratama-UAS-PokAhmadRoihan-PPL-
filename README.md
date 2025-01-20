@@ -16,7 +16,7 @@ KELAS PAGI (A)
 
 ## Pendahuluan
 
-1.1 Latar Belakang 
+## 1.1 Latar Belakang 
 
 Toko bangunan memiliki berbagai macam barang seperti semen, cat, paku, dan material lainnya yang sangat dibutuhkan untuk konstruksi. Dalam operasional sehari-hari, pencatatan penjualan, pengelolaan stok, dan pembuatan laporan masih sering dilakukan secara manual. Proses ini seringkali menyebabkan kesalahan dalam pencatatan, keterlambatan dalam pembaruan stok, dan sulitnya melakukan pelacakan transaksi.
 
@@ -61,13 +61,13 @@ Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi s
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/skema.jpg" width="650" height="500">
 
  
-Hubungan Antar Tabel
+## Hubungan Antar Tabel
 
-a.	Tabel Utama:
+## a.	Tabel Utama:
 
 Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat untuk mencatat transaksi dan informasi lain.
 
-b.	Relasi Penting:
+## b.	Relasi Penting:
 
 -Barang ke Kategori: Setiap barang memiliki kategori (id_kategori).
 
@@ -76,14 +76,14 @@ b.	Relasi Penting:
 -Penjualan dan Nota ke Member: Transaksi juga mencatat pelanggan yang melakukan pembelian.
 
 -Login ke Member: Setiap login hanya berlaku untuk member tertentu.
-##
-1.7 Skema Actor
+
+## 1.7 Skema Actor
 - Use Case diagram
  
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/actor.jpg" width="600" height="500">
 
 
-Penjelasan Diagram
+## Penjelasan Diagram
 
 1.	Login: Admin harus login sebelum menggunakan sistem.
    
@@ -96,17 +96,14 @@ Penjelasan Diagram
 5.	Melihat Laporan Penjualan: Admin dapat melihat laporan penjualan secara berkala.
     
 6.	Melihat Riwayat Transaksi: Admin dapat melihat transaksi yang sudah terjadi untuk keperluan pencatatan.
-##
-- Sequence Diagram
 
+## - Sequence Diagram
 
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/sequence.jpg" width="800" height="800">
 
- 
-
-Deskripsi Sequence Diagram:
-##
+## Deskripsi Sequence Diagram:
 Aktor:
+
 Admin 
 
 Entitas website Sistem Penjualan:
@@ -121,10 +118,8 @@ Entitas website Sistem Penjualan:
 
 -Modul Laporan
 
+## Skema Interaksi:
 
-
-Skema Interaksi:
-##
 Admin Login:
 
 -Admin memasukkan username dan password.
@@ -155,12 +150,10 @@ Melihat Laporan:
 -Admin meminta laporan penjualan.
 
 -Sistem mengambil data dari database dan menampilkan laporan.
-##
-- Activity Diagram
+
+## - Activity Diagram
  
-
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/activity.jpg" width="500" height="450">
-
 
 ## Tampilan
 - Login
