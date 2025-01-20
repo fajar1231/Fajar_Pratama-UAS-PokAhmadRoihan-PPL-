@@ -80,23 +80,12 @@ Penjelasan Diagram
 6.	Melihat Riwayat Transaksi: Admin dapat melihat transaksi yang sudah terjadi untuk keperluan pencatatan.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 - Sequence Diagram
 
+
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/sequence.jpg" width="600" height="500">
+
  
-
-
 
 Deskripsi Sequence Diagram:
 Aktor:
