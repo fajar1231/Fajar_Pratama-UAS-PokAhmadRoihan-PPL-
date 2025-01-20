@@ -51,12 +51,17 @@ Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi s
 Hubungan Antar Tabel
 
 a.	Tabel Utama:
+
 Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat untuk mencatat transaksi dan informasi lain.
 
 b.	Relasi Penting:
+
 -Barang ke Kategori: Setiap barang memiliki kategori (id_kategori).
+
 -Penjualan dan Nota ke Barang: Transaksi terkait barang yang dijual.
+
 -Penjualan dan Nota ke Member: Transaksi juga mencatat pelanggan yang melakukan pembelian.
+
 -Login ke Member: Setiap login hanya berlaku untuk member tertentu.
 
 1.7 Skema Actor
