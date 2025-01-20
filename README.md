@@ -13,7 +13,7 @@ TEKNOLOGI INFORMASI
 FAKULTAS TEKNIK
 KELAS PAGI (A)
 
-Pendahuluan
+## Pendahuluan
 
 1.1 Latar Belakang 
 Toko bangunan memiliki berbagai macam barang seperti semen, cat, paku, dan material lainnya yang sangat dibutuhkan untuk konstruksi. Dalam operasional sehari-hari, pencatatan penjualan, pengelolaan stok, dan pembuatan laporan masih sering dilakukan secara manual. Proses ini seringkali menyebabkan kesalahan dalam pencatatan, keterlambatan dalam pembaruan stok, dan sulitnya melakukan pelacakan transaksi.
