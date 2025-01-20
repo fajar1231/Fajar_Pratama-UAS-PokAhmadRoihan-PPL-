@@ -68,7 +68,7 @@ b.	Relasi Penting:
 1.7 Skema Actor
 - Use Case diagram
  
-<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/actor.jpg" width="250" height="300">
+<img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/actor.jpg" width="600" height="500">
 
 
 Penjelasan Diagram
