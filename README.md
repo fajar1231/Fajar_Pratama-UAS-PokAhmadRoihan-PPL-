@@ -136,53 +136,9 @@ Berikut adalah spesifikasi perangkat lunak yang digunakan:
 3. **Bahasa Pemrograman**  
    - **PHP** untuk backend  
    - **HTML dan CSS** untuk tampilan halaman  
-   - **SQL** untuk pengelolaan database  
+   - **SQL** untuk pengelolaan database
 
-Dengan rancangan ini, sistem dapat berjalan secara optimal dan memenuhi kebutuhan pengelolaan penjualan serta stok di toko bangunan.
-
-## Pendahuluan
-
-## 1.1 Latar Belakang 
-
-Toko bangunan memiliki berbagai macam barang seperti semen, cat, paku, dan material lainnya yang sangat dibutuhkan untuk konstruksi. Dalam operasional sehari-hari, pencatatan penjualan, pengelolaan stok, dan pembuatan laporan masih sering dilakukan secara manual. Proses ini seringkali menyebabkan kesalahan dalam pencatatan, keterlambatan dalam pembaruan stok, dan sulitnya melakukan pelacakan transaksi.
-
-Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi solusi yang dapat membantu toko bangunan dalam mengelola data barang, transaksi, dan laporan secara efisien. Sistem ini diharapkan mampu mempermudah pengelolaan usaha, meningkatkan akurasi data, dan mempercepat proses operasional.
-
-## 1.2 Identifikasi Masalah
-
-1. Kesalahan pencatatan transaksi secara manual, seperti total pembayaran atau stok barang.
-   
-2. Kesulitan dalam mengetahui stok barang secara real-time.
-   
-3. Proses pembuatan laporan yang memakan waktu karena dilakukan secara manual.
-   
-4. Risiko kehilangan data akibat tidak adanya sistem terpusat.
-   
-5. Kurangnya efisiensi dalam pengelolaan data barang dan transaksi.
-
-## 1.3 Rumusan Masalah 
-
-1. Bagaimana merancang sistem penjualan berbasis website untuk mempermudah pencatatan transaksi di toko bangunan?
-   
-2. Bagaimana sistem ini dapat membantu memantau stok barang secara real-time?
- 
-3. Bagaimana cara mengintegrasikan pembuatan laporan otomatis ke dalam sistem?
-   
-4. Bagaimana memastikan keamanan dan akurasi data dalam sistem penjualan berbasis website?
-
-## 1.4 Skema Hardware
-- Laptop anggota kelompok
-  
-## 1.5 Skema Software
-- MySQL
-  
-- PHP
-  
-- Visual Studio Code
-  
-- Visual paradigm
-
-## 1.6 Skema Database
+## Skema Database
 
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/skema.jpg" width="650" height="500">
 
@@ -203,9 +159,9 @@ Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat u
 
 4. Login ke Member: Setiap login hanya berlaku untuk member tertentu.
 
-## 1.7 Skema Actor
+## Skema Actor
 
-## - Use Case diagram
+## -Use Case diagram
  
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/actor.jpg" width="600" height="500">
 
@@ -224,7 +180,7 @@ Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat u
     
 6.	Melihat Riwayat Transaksi: Admin dapat melihat transaksi yang sudah terjadi untuk keperluan pencatatan.
 
-## - Sequence Diagram
+## -Sequence Diagram
 
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/sequence.jpg" width="800" height="800">
 
@@ -276,9 +232,41 @@ Melihat Laporan:
 
 2. Sistem mengambil data dari database dan menampilkan laporan.
 
-## - Activity Diagram
+## -Activity Diagram
  
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/activity.jpg" width="500" height="450">
+
+Dengan rancangan ini, sistem dapat berjalan secara optimal dan memenuhi kebutuhan pengelolaan penjualan serta stok di toko bangunan.
+
+## Pendahuluan
+
+## 1.1 Latar Belakang 
+
+Toko bangunan memiliki berbagai macam barang seperti semen, cat, paku, dan material lainnya yang sangat dibutuhkan untuk konstruksi. Dalam operasional sehari-hari, pencatatan penjualan, pengelolaan stok, dan pembuatan laporan masih sering dilakukan secara manual. Proses ini seringkali menyebabkan kesalahan dalam pencatatan, keterlambatan dalam pembaruan stok, dan sulitnya melakukan pelacakan transaksi.
+
+Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi solusi yang dapat membantu toko bangunan dalam mengelola data barang, transaksi, dan laporan secara efisien. Sistem ini diharapkan mampu mempermudah pengelolaan usaha, meningkatkan akurasi data, dan mempercepat proses operasional.
+
+## 1.2 Identifikasi Masalah
+
+1. Kesalahan pencatatan transaksi secara manual, seperti total pembayaran atau stok barang.
+   
+2. Kesulitan dalam mengetahui stok barang secara real-time.
+   
+3. Proses pembuatan laporan yang memakan waktu karena dilakukan secara manual.
+   
+4. Risiko kehilangan data akibat tidak adanya sistem terpusat.
+   
+5. Kurangnya efisiensi dalam pengelolaan data barang dan transaksi.
+
+## 1.3 Rumusan Masalah 
+
+1. Bagaimana merancang sistem penjualan berbasis website untuk mempermudah pencatatan transaksi di toko bangunan?
+   
+2. Bagaimana sistem ini dapat membantu memantau stok barang secara real-time?
+ 
+3. Bagaimana cara mengintegrasikan pembuatan laporan otomatis ke dalam sistem?
+   
+4. Bagaimana memastikan keamanan dan akurasi data dalam sistem penjualan berbasis website?
 
 ## Tampilan
 - Login
