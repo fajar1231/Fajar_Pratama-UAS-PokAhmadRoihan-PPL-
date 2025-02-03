@@ -9,6 +9,41 @@ TEKNOLOGI INFORMASI
 FAKULTAS TEKNIK
 KELAS PAGI (A)
 
+## NO 1
+
+Berikut jawaban untuk soal nomor 1 berdasarkan file README proyek Anda:  
+
+---
+
+### **1. Permasalahan yang Ingin Diselesaikan**  
+Toko bangunan umumnya masih mengandalkan pencatatan manual dalam mengelola transaksi dan stok barang. Hal ini menyebabkan beberapa permasalahan utama:  
+
+1. **Kesalahan pencatatan transaksi** – Kesalahan dalam menghitung total pembayaran atau pencatatan stok sering terjadi akibat metode manual.  
+2. **Ketidaktepatan dalam pemantauan stok** – Tanpa sistem yang terkomputerisasi, stok barang sulit diperbarui secara real-time, yang dapat menyebabkan kekurangan atau kelebihan persediaan.  
+3. **Proses pembuatan laporan yang lambat** – Laporan penjualan dan stok harus dibuat secara manual, yang memakan waktu dan berisiko terjadi kesalahan.  
+4. **Risiko kehilangan data** – Tidak adanya sistem penyimpanan digital membuat data transaksi mudah hilang atau rusak.  
+5. **Kurangnya efisiensi dalam pengelolaan toko** – Pengelolaan barang dan transaksi secara manual tidak efektif, terutama jika volume penjualan tinggi.  
+
+### **2. Analisis Penyebab Utama**  
+- **Metode manual yang masih digunakan** menyebabkan kemungkinan human error tinggi.  
+- **Kurangnya sistem terpusat** membuat data tidak terorganisir dengan baik.  
+- **Proses pembaruan stok yang tidak real-time** menyebabkan keterlambatan dalam pengambilan keputusan.  
+- **Tidak adanya pencatatan digital** meningkatkan risiko kehilangan data akibat faktor eksternal seperti kehilangan buku catatan atau kesalahan input.  
+
+### **3. Dampak pada Pengguna atau Sistem**  
+- Pemilik dan admin toko kesulitan dalam mengelola stok dan transaksi.  
+- Pelanggan dapat mengalami keterlambatan atau ketidakpastian dalam ketersediaan barang.  
+- Proses bisnis berjalan lambat karena administrasi yang kurang efisien.  
+
+### **4. Solusi dengan Teknologi Perangkat Lunak**  
+Solusi yang diusulkan adalah **Sistem Penjualan dan Pengelolaan Stok Berbasis Web**, yang memiliki fitur:  
+1. **Manajemen transaksi otomatis** – Sistem akan menghitung total pembayaran secara otomatis, mengurangi kesalahan perhitungan.  
+2. **Pemantauan stok secara real-time** – Setiap transaksi akan memperbarui stok barang langsung dalam database.  
+3. **Pembuatan laporan otomatis** – Admin dapat melihat laporan transaksi dan stok tanpa perlu menghitung secara manual.  
+4. **Penyimpanan data terpusat** – Semua data tersimpan dalam database MySQL yang lebih aman dan mudah diakses.  
+5. **Efisiensi dalam pengelolaan toko** – Proses pencatatan, pemantauan stok, dan laporan menjadi lebih cepat dan akurat.  
+
+Dengan solusi ini, sistem dapat memenuhi kebutuhan pengguna, meningkatkan efisiensi operasional, serta mengurangi kesalahan pencatatan dan risiko kehilangan data.
 
 ## Pendahuluan
 
