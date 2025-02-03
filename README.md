@@ -11,7 +11,6 @@ KELAS PAGI (A)
 
 ## NO 1
 
-Berikut jawaban untuk soal nomor 1 berdasarkan file README proyek Anda:  
 
 ---
 
