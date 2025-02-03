@@ -138,7 +138,7 @@ Berikut adalah spesifikasi perangkat lunak yang digunakan:
    - **HTML dan CSS** untuk tampilan halaman  
    - **SQL** untuk pengelolaan database
 
-## Skema Database
+### **c. Skema Database**
 
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/skema.jpg" width="650" height="500">
 
@@ -159,7 +159,7 @@ Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat u
 
 4. Login ke Member: Setiap login hanya berlaku untuk member tertentu.
 
-## Skema Actor
+### **d. Skema Actor**
 
 ## -Use Case diagram
  
