@@ -62,8 +62,7 @@ Dalam proyek **Sistem Penjualan dan Pengelolaan Stok Berbasis Web**, metode peng
 ### **Kesimpulan**  
 Berdasarkan hasil pengujian, sistem telah memenuhi standar fungsionalitas dan keandalan. Semua fitur berjalan sesuai dengan yang diharapkan, dan pengguna merasa terbantu dengan sistem ini. Namun, perbaikan kecil dapat dilakukan untuk meningkatkan pengalaman pengguna, seperti optimalisasi tampilan dan kecepatan akses.
 
-## NO.3
-Jelaskan bahasa pemrograman yang dipilih untuk pengembangan proyek anda, termasuk alasan pemilihannya berdasarkan karakteristik proyek dan keunggulan bahasa tersebut. Sebutkan juga platfunt pengembangan (misalnya, aplikasi berbasis web, mobile, atau desktop) serta perangkat lunak pendukung yang digunakan selama pengembangan
+## NO 3. Jelaskan bahasa pemrograman yang dipilih untuk pengembangan proyek anda, termasuk alasan pemilihannya berdasarkan karakteristik proyek dan keunggulan bahasa tersebut. Sebutkan juga platfunt pengembangan (misalnya, aplikasi berbasis web, mobile, atau desktop) serta perangkat lunak pendukung yang digunakan selama pengembangan
 
 **Bahasa Pemrograman dan Platform Pengembangan**  
 
@@ -86,6 +85,60 @@ Proyek ini dikembangkan sebagai **aplikasi berbasis web**, sehingga dapat diakse
 - **MySQL** – Digunakan sebagai sistem manajemen basis data untuk menyimpan data barang, transaksi, dan pengguna.  
 
 Dengan kombinasi teknologi ini, sistem dapat berjalan dengan efisien, mudah dikembangkan, dan memenuhi kebutuhan pengguna dalam pengelolaan toko bangunan.
+
+##  NO 4. Buatlah rancangan teknis perangkat lunak yang meliputi
+
+a. Skema Hardware: Jelaskan perangkat keras yang dibutuhkan untuk menjalankan sistem
+
+b. Skema Software: Berikan spesifikasi sistem operasi, framework, library, dan bahasa pemrograman yang digunakan
+
+c. Skema Database: Gambarkan class diagram atou ERD untuk mendeskripsikan struktur data yang digunakan.
+
+d. Skema Actor Buatlah use cose diagram, sequence diagram, dan activity diagram untuk menjelaskan olur sistem yang melibatkan pengguna dan interaksi antar komponen sistem
+
+Sertakan diagram yong relevan dalam laporan Anda, selanjutnya masukkan seluruh perancangan ke dalam file readme.md Github dengan nama repository yaitu UAS-Pak Armarioihan-Pit dan berkon tautannya di jawaban inlt
+
+
+**Rancangan Teknis Perangkat Lunak**  
+
+### **a. Skema Hardware**  
+Untuk menjalankan **Sistem Penjualan dan Pengelolaan Stok Berbasis Web**, berikut adalah perangkat keras yang dibutuhkan:  
+
+1. **Server** (Opsional jika menggunakan hosting sendiri)  
+   - **Processor**: Intel Core i5 atau lebih tinggi  
+   - **RAM**: Minimal 8GB untuk performa optimal  
+   - **Storage**: SSD 256GB atau lebih (untuk kecepatan akses data)  
+   - **Koneksi Internet**: Stabil dengan bandwidth yang cukup  
+
+2. **Client (Admin atau Pengguna)**  
+   - **Device**: Laptop atau PC dengan spesifikasi minimal  
+     - **Processor**: Intel Core i3 atau lebih tinggi  
+     - **RAM**: 4GB atau lebih  
+     - **Storage**: 128GB SSD atau lebih  
+   - **Browser**: Google Chrome, Mozilla Firefox, atau Microsoft Edge  
+   - **Printer (Opsional)**: Jika diperlukan untuk mencetak invoice atau laporan  
+
+### **b. Skema Software**  
+Berikut adalah spesifikasi perangkat lunak yang digunakan:  
+
+1. **Sistem Operasi**  
+   - Windows 10/11 atau Linux (Ubuntu/Debian)  
+   - Jika menggunakan server, direkomendasikan **Linux Ubuntu 20.04** untuk stabilitas  
+
+2. **Framework dan Library**  
+   - **Backend**: PHP (tanpa framework, native PHP)  
+   - **Frontend**: Bootstrap untuk tampilan responsif  
+   - **Database**: MySQL untuk penyimpanan data  
+   - **Library Pendukung**:  
+     - **PDO** untuk koneksi database yang lebih aman  
+     - **TCPDF** (opsional) untuk pembuatan laporan dalam format PDF  
+
+3. **Bahasa Pemrograman**  
+   - **PHP** untuk backend  
+   - **HTML dan CSS** untuk tampilan halaman  
+   - **SQL** untuk pengelolaan database  
+
+Dengan rancangan ini, sistem dapat berjalan secara optimal dan memenuhi kebutuhan pengelolaan penjualan serta stok di toko bangunan.
 
 ## Pendahuluan
 
