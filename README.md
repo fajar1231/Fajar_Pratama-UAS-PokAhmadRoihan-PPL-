@@ -101,7 +101,7 @@ Sertakan diagram yong relevan dalam laporan Anda, selanjutnya masukkan seluruh p
 
 **Rancangan Teknis Perangkat Lunak**  
 
-### **a. Skema Hardware**  
+### **A. Skema Hardware**  
 Untuk menjalankan **Sistem Penjualan dan Pengelolaan Stok Berbasis Web**, berikut adalah perangkat keras yang dibutuhkan:  
 
 1. **Server** (Opsional jika menggunakan hosting sendiri)  
@@ -118,7 +118,7 @@ Untuk menjalankan **Sistem Penjualan dan Pengelolaan Stok Berbasis Web**, beriku
    - **Browser**: Google Chrome, Mozilla Firefox, atau Microsoft Edge  
    - **Printer (Opsional)**: Jika diperlukan untuk mencetak invoice atau laporan  
 
-### **b. Skema Software**  
+### **B. Skema Software**  
 Berikut adalah spesifikasi perangkat lunak yang digunakan:  
 
 1. **Sistem Operasi**  
@@ -138,7 +138,7 @@ Berikut adalah spesifikasi perangkat lunak yang digunakan:
    - **HTML dan CSS** untuk tampilan halaman  
    - **SQL** untuk pengelolaan database
 
-### **c. Skema Database**
+### **C. Skema Database**
 
 <img src="https://raw.githubusercontent.com/fajar1231/pos/master/assets/img/user/skema.jpg" width="650" height="500">
 
@@ -159,7 +159,7 @@ Tabel utama adalah barang, kategori, dan member, karena data ini menjadi pusat u
 
 4. Login ke Member: Setiap login hanya berlaku untuk member tertentu.
 
-### **d. Skema Actor**
+### **D. Skema Actor**
 
 ## -Use Case diagram
  
