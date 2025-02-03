@@ -64,6 +64,31 @@ Dalam proyek **Sistem Penjualan dan Pengelolaan Stok Berbasis Web**, metode peng
 ### **Kesimpulan**  
 Berdasarkan hasil pengujian, sistem telah memenuhi standar fungsionalitas dan keandalan. Semua fitur berjalan sesuai dengan yang diharapkan, dan pengguna merasa terbantu dengan sistem ini. Namun, perbaikan kecil dapat dilakukan untuk meningkatkan pengalaman pengguna, seperti optimalisasi tampilan dan kecepatan akses.
 
+## NO.3
+Jelaskan bahasa pemrograman yang dipilih untuk pengembangan proyek anda, termasuk alasan pemilihannya berdasarkan karakteristik proyek dan keunggulan bahasa tersebut. Sebutkan juga platfunt pengembangan (misalnya, aplikasi berbasis web, mobile, atau desktop) serta perangkat lunak pendukung yang digunakan selama pengembangan
+
+**Bahasa Pemrograman dan Platform Pengembangan**  
+
+### **Bahasa Pemrograman yang Digunakan**  
+Proyek **Sistem Penjualan dan Pengelolaan Stok Berbasis Web** dikembangkan menggunakan **PHP** sebagai bahasa pemrograman utama untuk backend dan **MySQL** sebagai database.  
+
+### **Alasan Pemilihan PHP**  
+1. **Mudah Digunakan** – PHP memiliki sintaks yang sederhana dan mudah dipelajari, sehingga cocok untuk pengembangan aplikasi web.  
+2. **Kompatibilitas Tinggi** – PHP dapat berjalan di berbagai sistem operasi dan dapat dengan mudah diintegrasikan dengan database MySQL.  
+3. **Performa yang Baik** – PHP memiliki eksekusi yang cukup cepat untuk aplikasi skala kecil hingga menengah seperti sistem penjualan ini.  
+4. **Dukungan Komunitas yang Luas** – PHP memiliki komunitas besar yang menyediakan banyak referensi, dokumentasi, dan library tambahan.  
+
+### **Platform Pengembangan**  
+Proyek ini dikembangkan sebagai **aplikasi berbasis web**, sehingga dapat diakses melalui browser tanpa perlu instalasi tambahan di perangkat pengguna.  
+
+### **Perangkat Lunak Pendukung**  
+- **Visual Studio Code** – Digunakan sebagai text editor utama untuk menulis kode PHP dan HTML.  
+- **XAMPP** – Digunakan sebagai server lokal yang menjalankan Apache, PHP, dan MySQL untuk kebutuhan pengujian dan pengembangan.  
+- **Bootstrap** – Digunakan untuk meningkatkan tampilan antarmuka agar lebih responsif dan mudah digunakan.  
+- **MySQL** – Digunakan sebagai sistem manajemen basis data untuk menyimpan data barang, transaksi, dan pengguna.  
+
+Dengan kombinasi teknologi ini, sistem dapat berjalan dengan efisien, mudah dikembangkan, dan memenuhi kebutuhan pengguna dalam pengelolaan toko bangunan.
+
 ## Pendahuluan
 
 ## 1.1 Latar Belakang 
