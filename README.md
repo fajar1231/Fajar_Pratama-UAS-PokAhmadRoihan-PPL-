@@ -88,13 +88,13 @@ Dengan kombinasi teknologi ini, sistem dapat berjalan dengan efisien, mudah dike
 
 ##  NO 4. Buatlah rancangan teknis perangkat lunak yang meliputi
 
-a. Skema Hardware: Jelaskan perangkat keras yang dibutuhkan untuk menjalankan sistem
+A. Skema Hardware: Jelaskan perangkat keras yang dibutuhkan untuk menjalankan sistem
 
-b. Skema Software: Berikan spesifikasi sistem operasi, framework, library, dan bahasa pemrograman yang digunakan
+B. Skema Software: Berikan spesifikasi sistem operasi, framework, library, dan bahasa pemrograman yang digunakan
 
-c. Skema Database: Gambarkan class diagram atou ERD untuk mendeskripsikan struktur data yang digunakan.
+C. Skema Database: Gambarkan class diagram atou ERD untuk mendeskripsikan struktur data yang digunakan.
 
-d. Skema Actor Buatlah use cose diagram, sequence diagram, dan activity diagram untuk menjelaskan olur sistem yang melibatkan pengguna dan interaksi antar komponen sistem
+D. Skema Actor Buatlah use cose diagram, sequence diagram, dan activity diagram untuk menjelaskan olur sistem yang melibatkan pengguna dan interaksi antar komponen sistem
 
 Sertakan diagram yong relevan dalam laporan Anda, selanjutnya masukkan seluruh perancangan ke dalam file readme.md Github dengan nama repository yaitu UAS-Pak Armarioihan-Pit dan berkon tautannya di jawaban inlt
 
@@ -238,35 +238,67 @@ Melihat Laporan:
 
 Dengan rancangan ini, sistem dapat berjalan secara optimal dan memenuhi kebutuhan pengelolaan penjualan serta stok di toko bangunan.
 
-## Pendahuluan
+## NO 5. Gambarkan proses implementasi sistem yang Anda kembangkan, mulai dari persiapan lingkungan kerja hingga penerapan komponen-komponen perangkat lunak. Jelaskan langkah-langkah Anda dalam mengintegrasikan hardware, software, database, dan antarmuka pengguna sehingga sistem dapat berjalan sesuai desain, selanjutnya masukkan seluruh bukti gambar ke dalam file readme.md danub dengan nama repository yaitu UAS-PokAhmadRoihan-PPL, dan berikan toutannya di jawaban ini
 
-## 1.1 Latar Belakang 
+### **Proses Implementasi Sistem**  
 
-Toko bangunan memiliki berbagai macam barang seperti semen, cat, paku, dan material lainnya yang sangat dibutuhkan untuk konstruksi. Dalam operasional sehari-hari, pencatatan penjualan, pengelolaan stok, dan pembuatan laporan masih sering dilakukan secara manual. Proses ini seringkali menyebabkan kesalahan dalam pencatatan, keterlambatan dalam pembaruan stok, dan sulitnya melakukan pelacakan transaksi.
+Implementasi **Sistem Penjualan dan Pengelolaan Stok Berbasis Web** dilakukan melalui beberapa tahapan, mulai dari persiapan lingkungan kerja hingga integrasi komponen-komponen perangkat lunak. Berikut langkah-langkahnya:  
 
-Dengan kemajuan teknologi, penerapan sistem penjualan berbasis website menjadi solusi yang dapat membantu toko bangunan dalam mengelola data barang, transaksi, dan laporan secara efisien. Sistem ini diharapkan mampu mempermudah pengelolaan usaha, meningkatkan akurasi data, dan mempercepat proses operasional.
+---
 
-## 1.2 Identifikasi Masalah
+### **1. Persiapan Lingkungan Kerja**  
+Sebelum memulai pengembangan, dilakukan persiapan perangkat keras dan lunak yang dibutuhkan:  
+- **Perangkat Keras**: Laptop atau PC dengan spesifikasi minimal (Intel i3, RAM 4GB, SSD 128GB).  
+- **Perangkat Lunak**:  
+  - Instalasi **XAMPP** (Apache, MySQL, PHP) untuk server lokal.  
+  - Instalasi **Visual Studio Code** sebagai code editor.  
+  - Instalasi **MySQL Workbench** (opsional) untuk manajemen database.  
+  - Instalasi **Git** untuk version control (opsional).  
 
-1. Kesalahan pencatatan transaksi secara manual, seperti total pembayaran atau stok barang.
-   
-2. Kesulitan dalam mengetahui stok barang secara real-time.
-   
-3. Proses pembuatan laporan yang memakan waktu karena dilakukan secara manual.
-   
-4. Risiko kehilangan data akibat tidak adanya sistem terpusat.
-   
-5. Kurangnya efisiensi dalam pengelolaan data barang dan transaksi.
+---
 
-## 1.3 Rumusan Masalah 
+### **2. Pengembangan dan Integrasi Komponen Sistem**  
 
-1. Bagaimana merancang sistem penjualan berbasis website untuk mempermudah pencatatan transaksi di toko bangunan?
-   
-2. Bagaimana sistem ini dapat membantu memantau stok barang secara real-time?
- 
-3. Bagaimana cara mengintegrasikan pembuatan laporan otomatis ke dalam sistem?
-   
-4. Bagaimana memastikan keamanan dan akurasi data dalam sistem penjualan berbasis website?
+#### **a. Pembuatan Database MySQL**  
+1. **Membuat database** di **phpMyAdmin** dengan nama `toko_bangunan_pos`.  
+2. **Membuat tabel utama**, seperti:  
+   - `barang` (menyimpan data produk).  
+   - `kategori` (kategori produk).  
+   - `penjualan` (mencatat transaksi).  
+   - `user` (data admin toko).  
+3. **Menjalankan query SQL** untuk mengisi data awal.  
+
+#### **b. Pengembangan Backend dengan PHP**  
+1. **Membuat koneksi database** menggunakan **PDO** untuk keamanan.  
+2. **Membuat modul utama**:  
+   - Modul **Login**: Otentikasi admin sebelum mengakses sistem.  
+   - Modul **Manajemen Barang**: CRUD (Create, Read, Update, Delete) untuk stok produk.  
+   - Modul **Penjualan**: Proses transaksi dan pengurangan stok secara otomatis.  
+   - Modul **Laporan**: Menampilkan dan mencetak laporan transaksi.  
+
+#### **c. Pengembangan Frontend dengan Bootstrap**  
+1. **Membuat template halaman** dengan **Bootstrap** untuk tampilan responsif.  
+2. **Membuat navigasi utama**: Dashboard, Data Barang, Transaksi, Laporan.  
+3. **Menghubungkan frontend dengan backend** menggunakan form dan request **POST/GET** di PHP.  
+
+---
+
+### **3. Pengujian dan Debugging**  
+1. **Unit Testing**: Menguji setiap fitur secara terpisah (login, transaksi, laporan).  
+2. **Integration Testing**: Memastikan modul bekerja dengan baik saat terhubung.  
+3. **User Acceptance Testing (UAT)**: Admin mencoba sistem dan memberikan masukan.  
+
+---
+
+### **4. Implementasi dan Penerapan Sistem**  
+1. **Deploy ke Server** (jika digunakan hosting online) atau tetap menggunakan **XAMPP** untuk lokal.  
+2. **Migrasi Data**: Memasukkan data produk awal ke dalam database.  
+3. **Training Admin**: Memberikan panduan penggunaan sistem kepada pengguna.  
+4. **Monitoring dan Maintenance**: Mengecek sistem secara berkala untuk memastikan tidak ada bug.  
+
+---
+
+Dengan mengikuti langkah-langkah ini, sistem berhasil berjalan sesuai dengan desain dan dapat digunakan untuk membantu pengelolaan penjualan serta stok di toko bangunan.
 
 ## Tampilan
 - Login
