@@ -11,9 +11,6 @@ KELAS PAGI (A)
 
 ## NO 1
 
-
----
-
 ### **1. Permasalahan yang Ingin Diselesaikan**  
 Toko bangunan umumnya masih mengandalkan pencatatan manual dalam mengelola transaksi dan stok barang. Hal ini menyebabkan beberapa permasalahan utama:  
 
