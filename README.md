@@ -9,8 +9,7 @@ TEKNOLOGI INFORMASI
 FAKULTAS TEKNIK
 KELAS PAGI (A)
 
-## NO.1
-Jelaskan permasalahan yang ingin diselesaikan dalam proyek perangkat lunak yang Anda kembangkan. Berikan analisis mendalam mengenai penyebab utama permasalahan tersebur dan dampaknya pada pengguna atau sistem Kemudian, usulkan solusi yang dapat diterapkan dengan teknologi perangkat lunak, serta bagaimana solusi tersebut dapat memenuhi kebutunan pengguna seranjuπηγα masukkan seluruh permasalahan ke dalam file readme.md Github dengan nama repository yaitu LUAS-PokAhmadRoihan-PPL, dan berikan tautannya di jawaban
+## NO 1. Jelaskan permasalahan yang ingin diselesaikan dalam proyek perangkat lunak yang Anda kembangkan. Berikan analisis mendalam mengenai penyebab utama permasalahan tersebur dan dampaknya pada pengguna atau sistem Kemudian, usulkan solusi yang dapat diterapkan dengan teknologi perangkat lunak, serta bagaimana solusi tersebut dapat memenuhi kebutunan pengguna seranjuπηγα masukkan seluruh permasalahan ke dalam file readme.md Github dengan nama repository yaitu LUAS-PokAhmadRoihan-PPL, dan berikan tautannya di jawaban
 
 ### **1. Permasalahan yang Ingin Diselesaikan**  
 Toko bangunan umumnya masih mengandalkan pencatatan manual dalam mengelola transaksi dan stok barang. Hal ini menyebabkan beberapa permasalahan utama:  
@@ -42,8 +41,7 @@ Solusi yang diusulkan adalah **Sistem Penjualan dan Pengelolaan Stok Berbasis We
 
 Dengan solusi ini, sistem dapat memenuhi kebutuhan pengguna, meningkatkan efisiensi operasional, serta mengurangi kesalahan pencatatan dan risiko kehilangan data.
 
-## NO.2
-Deskripsikan metode pengujian (black/white testing) yang Anda gunakan untuk memastikan perangkat lunak berfungsi dengan balk, Jelaskan jenis pengujian yang diterapkan (misalnya, unit testing integration testing systern testing atau user acceptance testing), hasil pengujian yang diperoleh, dan kesimpulan dari pengujian tersebut,
+## NO 2. Deskripsikan metode pengujian (black/white testing) yang Anda gunakan untuk memastikan perangkat lunak berfungsi dengan balk, Jelaskan jenis pengujian yang diterapkan (misalnya, unit testing integration testing systern testing atau user acceptance testing), hasil pengujian yang diperoleh, dan kesimpulan dari pengujian tersebut,
 
 **Metode Pengujian Perangkat Lunak**  
 
