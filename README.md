@@ -9,7 +9,7 @@ TEKNOLOGI INFORMASI
 FAKULTAS TEKNIK
 KELAS PAGI (A)
 
-## NO 1
+## NO.1
 Jelaskan permasalahan yang ingin diselesaikan dalam proyek perangkat lunak yang Anda kembangkan. Berikan analisis mendalam mengenai penyebab utama permasalahan tersebur dan dampaknya pada pengguna atau sistem Kemudian, usulkan solusi yang dapat diterapkan dengan teknologi perangkat lunak, serta bagaimana solusi tersebut dapat memenuhi kebutunan pengguna seranjuπηγα masukkan seluruh permasalahan ke dalam file readme.md Github dengan nama repository yaitu LUAS-PokAhmadRoihan-PPL, dan berikan tautannya di jawaban
 
 ### **1. Permasalahan yang Ingin Diselesaikan**  
@@ -41,6 +41,28 @@ Solusi yang diusulkan adalah **Sistem Penjualan dan Pengelolaan Stok Berbasis We
 5. **Efisiensi dalam pengelolaan toko** – Proses pencatatan, pemantauan stok, dan laporan menjadi lebih cepat dan akurat.  
 
 Dengan solusi ini, sistem dapat memenuhi kebutuhan pengguna, meningkatkan efisiensi operasional, serta mengurangi kesalahan pencatatan dan risiko kehilangan data.
+
+## NO.2
+Deskripsikan metode pengujian (black/white testing) yang Anda gunakan untuk memastikan perangkat lunak berfungsi dengan balk, Jelaskan jenis pengujian yang diterapkan (misalnya, unit testing integration testing systern testing atau user acceptance testing), hasil pengujian yang diperoleh, dan kesimpulan dari pengujian tersebut,
+
+**Metode Pengujian Perangkat Lunak**  
+
+Dalam proyek **Sistem Penjualan dan Pengelolaan Stok Berbasis Web**, metode pengujian yang digunakan adalah **Black Box Testing**, yang berfokus pada pengujian fungsionalitas tanpa melihat kode sumber.  
+
+### **Jenis Pengujian yang Diterapkan**  
+1. **Unit Testing** – Menguji setiap modul secara terpisah, seperti modul login, transaksi, dan pengelolaan stok, untuk memastikan bahwa setiap bagian berfungsi dengan baik.  
+2. **Integration Testing** – Menguji bagaimana modul-modul tersebut bekerja bersama, seperti proses login yang terhubung dengan manajemen pengguna atau transaksi yang mempengaruhi stok barang.  
+3. **System Testing** – Menguji sistem secara keseluruhan untuk memastikan bahwa semua fitur berjalan sesuai dengan spesifikasi yang telah ditentukan.  
+4. **User Acceptance Testing (UAT)** – Menguji sistem dengan pengguna akhir (admin toko) untuk memastikan bahwa sistem mudah digunakan dan memenuhi kebutuhan bisnis mereka.  
+
+### **Hasil Pengujian**  
+- **Unit Testing**: Semua modul berfungsi dengan baik tanpa error yang mengganggu.  
+- **Integration Testing**: Tidak ditemukan masalah dalam interaksi antara modul, seperti transaksi yang langsung memperbarui stok.  
+- **System Testing**: Sistem dapat berjalan dengan lancar di berbagai perangkat dan browser.  
+- **User Acceptance Testing**: Pengguna merasa sistem lebih mudah digunakan dibandingkan metode manual sebelumnya.  
+
+### **Kesimpulan**  
+Berdasarkan hasil pengujian, sistem telah memenuhi standar fungsionalitas dan keandalan. Semua fitur berjalan sesuai dengan yang diharapkan, dan pengguna merasa terbantu dengan sistem ini. Namun, perbaikan kecil dapat dilakukan untuk meningkatkan pengalaman pengguna, seperti optimalisasi tampilan dan kecepatan akses.
 
 ## Pendahuluan
 
